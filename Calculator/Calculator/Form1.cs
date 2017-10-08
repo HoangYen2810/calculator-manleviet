@@ -48,7 +48,7 @@ namespace Calculator
                     isTypingNumber = true;
             }
 
-            ThemDauCham();
+            
         }
 
         private void NhapPhepToan(object sender, EventArgs e)

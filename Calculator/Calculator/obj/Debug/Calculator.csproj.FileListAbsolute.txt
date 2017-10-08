@@ -8,3 +8,13 @@ C:\Users\DDD\Documents\GitHub\calculator-manleviet\Calculator\Calculator\obj\Deb
 C:\Users\DDD\Documents\GitHub\calculator-manleviet\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 C:\Users\DDD\Documents\GitHub\calculator-manleviet\Calculator\Calculator\obj\Debug\Calculator.exe
 C:\Users\DDD\Documents\GitHub\calculator-manleviet\Calculator\Calculator\obj\Debug\Calculator.pdb
+F:\github\calculator-manleviet\Calculator\Calculator\bin\Debug\Calculator.exe.config
+F:\github\calculator-manleviet\Calculator\Calculator\bin\Debug\Calculator.exe
+F:\github\calculator-manleviet\Calculator\Calculator\bin\Debug\Calculator.pdb
+F:\github\calculator-manleviet\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+F:\github\calculator-manleviet\Calculator\Calculator\obj\Debug\Calculator.frmMain.resources
+F:\github\calculator-manleviet\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+F:\github\calculator-manleviet\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+F:\github\calculator-manleviet\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+F:\github\calculator-manleviet\Calculator\Calculator\obj\Debug\Calculator.exe
+F:\github\calculator-manleviet\Calculator\Calculator\obj\Debug\Calculator.pdb
